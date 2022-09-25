@@ -84,7 +84,6 @@ details summary ~ * {
     header.style.paddingTop = '2px';
     header.style.fontSize = '1.5rem';
     header.style.textAlign = 'center'
-    header.innerHTML = `BlktWare.cc <span style="font-size: 0.75rem">v4.10.22</span>`;
 
     let loop;
 
@@ -151,7 +150,7 @@ details summary ~ * {
     bodyDiv.appendChild(footer);
     footer.style.fontSize = '0.9rem';
     footer.style.paddingBottom = '5px';
-    footer.innerHTML = (`<span>GUI by Zvc#8023<br>Cheats by <a style="color: lightblue" href="https://lomando.com">Zvco</a></span>`);
+    footer.innerHTML = (`<span>GUI by grim#8023<br>Cheats by <a style="color: lightblue" href="https://lomando.com">GRIM</a></span>`);
 
     var getValues = () => new Promise((e, t) => {
         try {
